@@ -1,6 +1,6 @@
 ---
 title: Mingkuan Yuan
 role: Algorithm Engineer
-avatar_filename: ""
-superuser: false
+avatar_filename: 咚.jpg
+superuser: true
 ---
