@@ -10,7 +10,7 @@ organizations:
   - name: Huawei
 education:
   courses:
-    - course: M.S. in Computer Application Technology
+    - course: M.S. in Computer Application
       institution: Peking University
       year: 2020
     - course: B.S. in Microelectronics
