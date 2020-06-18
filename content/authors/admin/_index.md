@@ -1,7 +1,7 @@
 ---
 title: Mingkuan Yuan
 role: Software Engineer of Computer Vision
-avatar_filename: eaycq2euwaaarnc-2.jpg
+avatar_filename: eaycq2euwaaarnc-3.jpg
 interests:
   - Image Synthesis
   - Domain Adaptation
