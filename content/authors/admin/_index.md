@@ -10,10 +10,10 @@ organizations:
   - name: Huawei
 education:
   courses:
-    - course: M.S. degree in Computer Application Technology
+    - course: M.S. in Computer Application Technology
       institution: Peking University
       year: 2020
-    - course: B.S. degree in Microelectronics
+    - course: B.S. in Microelectronics
       institution: " Northwestern Polytechnical University"
       year: 2016
 email: yuanmingkuan@gmail.com
