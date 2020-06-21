@@ -9,16 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "作品"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "项目"
-  url = "#projects"
-  weight = 30
-
-[[main]]
   name = "出版物"
   url = "#featured"
   weight = 40
