@@ -26,11 +26,11 @@ subtitle = ""
   name = "Computer Vision"
   description = "70%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "30%"
+# [[feature]]
+#   icon = "camera-retro"
+#   icon_pack = "fas"
+#   name = "Photography"
+#   description = "30%"
   
 [[feature]]
   icon = "steam"
