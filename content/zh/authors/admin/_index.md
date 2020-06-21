@@ -1,20 +1,20 @@
 ---
-title: Mingkuan Yuan
-role: Software Engineer of Computer Vision
+title: 袁明宽
+role: 计算机视觉算法工程师
 avatar_filename: eaycq2euwaaarnc-3.jpg
 interests:
-  - Image Synthesis
-  - Domain Adaptation
+  - 图像生成
+  - 域自适应
 social: []
 organizations:
-  - name: Huawei
+  - name: 华为2012实验室
 education:
   courses:
-    - course: M.S. in Computer Application
-      institution: Peking University
+    - course: 计算机应用技术硕士
+      institution: 北京大学
       year: 2020
-    - course: B.S. in Microelectronics
-      institution: " Northwestern Polytechnical University"
+    - course: 微电子学学士
+      institution: 西北工业大学
       year: 2016
 email: yuanmingkuan@gmail.com
 superuser: true
