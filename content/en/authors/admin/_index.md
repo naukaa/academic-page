@@ -14,9 +14,9 @@ education:
       institution: Peking University
       year: 2020
     - course: B.S. in Microelectronics
-      institution: " Northwestern Polytechnical University"
+      institution: Northwestern Polytechnical University
       year: 2016
 email: yuanmingkuan@gmail.com
 superuser: true
 ---
-Mingkuan Yuan received the M.S. degree in Computer Application Technology from Peking University in 2020. He is currently working in Huawei. His research interests include image synthesis and domain adaptation.
+I am currently working in Huawei as a software engineer of computer vision. I have graduated with M.S. degree in Peking University. My research interests include image synthesis and domain adaptation, who has carried out several articles on international conferences and transactions, such as ACM-MM, IJCAI, AAAI, TCSVT, TMM, and TCYB. I have participated in reviewing work of international papers as the reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) and Pattern Recognition Letters (PRL). Moreover, my progamming language is Python.

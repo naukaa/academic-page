@@ -19,4 +19,4 @@ education:
 email: yuanmingkuan@gmail.com
 superuser: true
 ---
-Mingkuan Yuan received the M.S. degree in Computer Application Technology from Peking University in 2020. He is currently working in Huawei. His research interests include image synthesis and domain adaptation.
+我目前作为计算机视觉算法工程师就职于华为公司，作为硕士研究生毕业于北京大学。我的研究兴趣包括图像生成与域自适应，并在国际会议与期刊上发表多篇文章，例如ACM-MM，IJCAI，AAAI，TCSVT，TMM，以及TCYB，曾作为TCSVT和PRL两大国际期刊审稿人多次参与审稿工作。我的主要编程语言是Python。
