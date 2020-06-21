@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2020-07"
   date_end = ""
-#   description = """
-#   Responsibilities include:
-#   
-#   * Analysing
-#   * Modelling
-#   * Deploying
-#   """
+  description = """ """
 
 [[experience]]
   title = "Master Student"
@@ -39,7 +33,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2016-09"
   date_end = "2020-06"
-#   description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """ """
 
 [[experience]]
   title = "Bachelor Student"
@@ -48,4 +42,5 @@ date_format = "Jan 2006"
   location = "Xi’an"
   date_start = "2012-09"
   date_end = "2016-06"
+  description = """ """
 +++
