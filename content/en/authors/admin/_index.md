@@ -14,7 +14,7 @@ education:
       institution: Peking University
       year: 2020
     - course: B.S. in Microelectronics
-      institution: Northwestern Polytechnical University
+      institution: " Northwestern Polytechnical University"
       year: 2016
 email: yuanmingkuan@gmail.com
 superuser: true
